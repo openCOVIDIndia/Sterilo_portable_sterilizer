@@ -1,0 +1,85 @@
+---
+# basis initial format for remote pickup of metadata by both client app and
+# the essential repo updates system, about to appear in first capability.
+# *todo* ground rules for yaml lines of this file, to be written
+
+# note carefully that this is the title that will show
+# in the Finder-Viewer app, and so _must_ be short enough to fit
+# the longTitle below lets such be in meta; no place to use it at present
+shortTitle: Sterilo - Portable UV-C Steriliser
+# these names are fixed labels as must be used on repo by GitHub API, for our access
+name: sterilo-portable-uv-c-steriliser
+nameWithOwner: CombatCovid/portable-uv-c-steriliser
+
+# markdown titles too long for Finder to show especially, we hold for any uses
+# the same for long descriptions in the languages
+# when text may fit, then they are the same in topic and longTopic yaml itemslongTitle: MIT Emergency Ventilator (E-Vent) Project
+
+languages:
+  EN:
+    description: Portable UV-C Steriliser used particularly to sterilise common touch points in isolation wards and intensive care units of hospitals.
+    keywords: [ covid-19, medical equipment, patient, recovery, critical care,intensive care, icu,
+                emergency room, emt, treatment, hospital, operating room,
+                sheet metal, laser cut ]
+    longDescription: >
+      Portable UV-C Steriliser used particularly to sterilise common touch points in isolation wards and intensive care units of hospitals such as controls of fixed medical instruments, incubation, door handles, sockets, switches, and other surgical equipment. The process helps to eradicate viruses at a faster rate than existing disinfection methods such as fumigation and autoclave treatment. The design is open-source and is easily assembled using standard off-the-shelf components.
+
+
+
+project-link: https://github.com/openCOVIDIndia
+intended-use: >-
+  tbd
+made: true
+made-independently: false
+license:
+  hardware: CERN-OHL-S License
+okh-manifest-version: 0.1.0
+date-updated: 2020-04-12
+manifest-author:
+  name:
+  -krishna Thiruvengadam Rajagopal
+  -Sowmya Laksminarayanan
+  -Shreyas Prakash
+  -Vivek Devaraj
+  affiliation:
+  -d.Hive Labs, India 
+  -Makers Adda, India
+  -TU Delft, Netherlands
+contributors:
+    -Deepika Gopalakrishnan
+    -Swathi Gunasekaran
+    -Raakesh Madhavan
+    
+sub-parts:
+  - Polycarbonate sheet (1200 * 800 mm) 5 mm thickness_1
+  - SS304 grade stainless steel rod (Diameter: 6mm) (Length: 1600 mm)_1
+  - Aluminium angle (anodized) (40*40*2 mm)_4
+  - Stainless steel bolts (M6) Length: 50 mm_4
+  - Stainless steel nuts (M6) _8
+  - Stainless steel washers (M6)_4
+  - Arduino Nano (preferably without headers)_1
+  - Nano cable_1
+  - Aluminium foil roll_1 
+  - Plastic epoxy adhesive_1
+  - Protoboard_40*60mm_1
+  - Philips TUV 25W 1SL/25 Model_Length: 437mm_3
+  - Philips Ballast IUV2S60 M4LD Model_3
+  - Limit switch OMRON S5-GL_2
+  - Rocker switch Sparkfun COM-11155_2
+  - Sheet metal - 25 Gauge - Thickness: 0.531 mm_1
+  - Metal mesh - Loosely woven; 10 mm hole diameter; 1.6 mm wire diameter; 400*300 mm_1
+  - M4 Machine screws - Length 20 mm_48
+  - M4 Penny washer_10
+  - M4 Spring washer_48
+  - M4 Nuts_48
+  - M2 Bolts_4
+  - M2 Nuts_4
+  - M6 Machine screws_12
+  - M6 Nuts_24
+  
+
+# ---
+# Note that it's critical that a metadata.yaml file _does not ever have_ this trailing ---
+# The reason: this trailing separator says there's another block to come.
+# For a Markdown fine, that's true -- the main Markdown text
+# But in a pure Yaml file, there isn't more to come - and it will break because empty!
