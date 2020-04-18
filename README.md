@@ -1,21 +1,39 @@
 
 # Sterilo - Portable UV-C Steriliser
-
+स्टेरिलो - पोर्टेबल यूवी-सी स्टेरलाइजर
 
 ## Background & Need
+पृष्ठभूमि और आवश्यकता
+
 - For ensuring that the procedures used to treat COVID-19 are risk free in terms of viral/bacterial contamination, hospitals normally follow disinfection/sterilisation methods. Disinfection methods involving NaClO and alcohol wipes which are still inefficient against bacterial spore formation and with most of the viruses. Besides, the hospital staff directly come in contact with these surfaces during treatment, leading to a higher risk of COVID-19 transmission.
 
 - For sterilisation procedures in ICUs and Isolation wards, fumigation and autoclave treatment are the most commonly used methods. However, with autoclaves, there are so many high exposure contact points that dont fit into the standard size of the enclosure. Beside there is also water droplet formation after usage which requires another round of drying treatment before reuse in the hospitals. As the total duration takes around 1 hour, during an increased surge of patients especially during this COVID-19 crisis, the autoclave would exceed its batch processing capability.
 
 - The fumigation process also requires extensive time (48 hours is the medically accepted standard). Currently in most of the Indian hospitals, the operations resume 30 minutes after the fumigation which renders the treatment partially effective thereby increasing the viral load in ICUs and hospital wards.
 
+•	यह सुनिश्चित करने के लिए कि सीओवीआईडी -19 के उपचार के लिए इस्तेमाल की जाने वाली प्रक्रिया वायरल / बैक्टीरियल संदूषण के मामले में जोखिम मुक्त है, अस्पताल आमतौर पर कीटाणुशोधन / नसबंदी के तरीकों का पालन करते हैं। NaClO और अल्कोहल वाइप्स को शामिल करने वाले कीटाणुशोधन विधियाँ जो अभी भी जीवाणु बीजाणु के विरूद्ध और अधिकांश वायरस के साथ अक्षम हैं। इसके अलावा, अस्पताल के कर्मचारी सीधे उपचार के दौरान इन सतहों के संपर्क में आते हैं, जिससे COVID-19 संचरण का अधिक जोखिम होता है।
+
+•	आईसीयू और अलगाव वार्डों में नसबंदी प्रक्रियाओं के लिए, धूमन और आटोक्लेव उपचार सबसे अधिक उपयोग की जाने वाली विधियां हैं। हालांकि, आटोक्लेव के साथ, बहुत सारे उच्च जोखिम वाले संपर्क बिंदु हैं जो बाड़े के मानक आकार में फिट नहीं होते हैं। इसके अलावा उपयोग के बाद पानी की बूंदों का निर्माण भी होता है जिसके लिए अस्पतालों में पुन: उपयोग से पहले सुखाने के उपचार के एक और दौर की आवश्यकता होती है। चूंकि कुल अवधि में लगभग 1 घंटे का समय लगता है, खासकर COVID-19 संकट के दौरान रोगियों की बढ़ी हुई वृद्धि के दौरान, आटोक्लेव अपनी बैच प्रसंस्करण क्षमता को पार कर जाएगा।
+
+•	धूमन प्रक्रिया को भी व्यापक समय की आवश्यकता होती है (48 घंटे चिकित्सकीय रूप से स्वीकृत मानक है)। वर्तमान में अधिकांश भारतीय अस्पतालों में, ऑपरेशन 30 मिनट बाद फिर से शुरू होता है, जो उपचार को आंशिक रूप से प्रभावी बनाता है जिससे आईसीयू और अस्पताल के वार्डों में वायरल लोड बढ़ जाता है।
+
+
 ### Lack of enough autoclaves to sterilise instruments
+उपकरणों को बाँझ करने के लिए पर्याप्त आटोक्लेव का अभाव
 
 SARS-CoV-2,the virus causing COVID-19, survives in the environment, including on surfaces of various materials such as iron, cardboard and tissue. This explains that there is a risk that the outer surface of respirators and surgical masks used inpatient care can quickly become contaminated.
 
+SARS-CoV-2, COVID-19 पैदा करने वाला वायरस, पर्यावरण में जीवित रहता है, जिसमें विभिन्न सामग्रियों जैसे कि लोहा, कार्डबोर्ड और ऊतक शामिल हैं। यह बताता है कि एक जोखिम है कि श्वासयंत्र की बाहरी सतह और सर्जिकल मास्क का इस्तेमाल किया जाता है जो जल्दी से दूषित हो सकते हैं।
+व्यक्तिगत सुरक्षा उपकरणों के पुन: उपयोग की आवश्यकता
+
 ### Need for reuse of Personal protective equipment
+व्यक्तिगत सुरक्षा उपकरणों के पुन: उपयोग की आवश्यकता
 
 Due to lack of enough personal protection equipment, they are beginning to be reused without any sterilization. Medical staff in teams 1 and 2 are still not provided with PPEs and have only N95 masks, like any other sanitary workers. They don’t have high viral loads like the teams 3 (who treat less severe patients) and 4 (who treat ICU patients) There is an imminent shortage of Personal Protective Equipments (PPE) even for teams 3 and 4 which includes masks, aprons, gowns and eye protection gear for the health workers in hospitals across India. Owing to this, they are facing a higher risk of virus infection, accidentally exposing other patients, their own families, and their colleagues at a time when hospitals cannot afford to have critical personnel on the sidelines. Contamination of the surface of respirators and surgical masks entails a risk for infection when reusing a mask or respirator without proper sterilization
+
+पर्याप्त व्यक्तिगत सुरक्षा उपकरणों की कमी के कारण, वे बिना किसी नसबंदी के पुन: उपयोग करने लगे हैं। टीमों 1 और 2 में मेडिकल स्टाफ अभी भी पीपीई के साथ प्रदान नहीं किया गया है और किसी भी अन्य सैनिटरी श्रमिकों की तरह केवल एन 95 मास्क हैं। उनके पास टीमों की तरह उच्च वायरल लोड नहीं हैं (जो गंभीर रोगियों का इलाज करते हैं) और 4 (जो आईसीयू के रोगियों का इलाज करते हैं) टीम 3 और 4 के लिए भी व्यक्तिगत सुरक्षा उपकरणों (पीपीई) की आसन्न कमी है जिसमें मास्क, एप्रन शामिल हैं , पूरे भारत के अस्पतालों में स्वास्थ्य कर्मचारियों के लिए गाउन और आई प्रोटेक्शन गियर। इसके कारण, वे वायरस के संक्रमण के एक उच्च जोखिम का सामना कर रहे हैं, गलती से अन्य रोगियों, अपने स्वयं के परिवारों, और उनके सहयोगियों को ऐसे समय में उजागर कर रहे हैं जब अस्पतालों में महत्वपूर्ण कर्मियों को साइडलाइन पर नहीं रखा जा सकता है। श्वासयंत्र और सर्जिकल मास्क की सतह को दूषित करने से संक्रमण का खतरा बढ़ जाता है जब उचित उपयोग के बिना मास्क या श्वासयंत्र का पुन: उपयोग किया जाता है
+चिकित्सा दिशानिर्देश
+
 
 ### Medical guidelines
 
