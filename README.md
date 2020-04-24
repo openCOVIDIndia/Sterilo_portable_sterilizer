@@ -99,22 +99,22 @@ The device is currently under development, a first metal prototype is being real
 
 For assembling the main body of the device
 - 5mm polycarbonate sheet should be cut with a laser cutter
-- After cutting the sheet metal as per the drawing [**drawing**](https://www.ohwr.org/project/openbreath/tree/master/CAD/DXF), drill holes, and bend it according to the drawings.
-- Screw the sheet metal [**components**]() onto the individual polycarbonate sheets.
-- Apply epoxy glue onto the interlocking slots, and then assemble the combined parts from Step 3. onto the [**base sheet**]() so that they are aligned and fixed firmly.
-- Screw the M6 bolts into the 3D printed [**support**]() for the electric connection, and then fix the [**UV-C Lamp**]() onto the support.
-- Screw this UV-C Support structures two onto the [**base-sheet**]() and one onto the [**top-sheet**]()
-- Screw the limit switch in place of the [**side**]() using 2.5 mm screws.
-- Need to bolt the aluminium angles onto the holes provided in the four corners of the [**sides**]() to house the magnets
+- After cutting the sheet metal as per the drawing, drill holes, and bend it according to the drawings.
+- Screw the sheet metal components onto the individual polycarbonate sheets.
+- Apply epoxy glue onto the interlocking slots, and then assemble the combined parts from Step 3. onto the base sheet so that they are aligned and fixed firmly.
+- Screw the M6 bolts into the 3D printed support for the electric connection, and then fix the UV-C Lamp onto the support.
+- Screw this UV-C Support structures two onto the base sheet and one onto the top sheet
+- Screw the limit switch in place of the side using 2.5 mm screws.
+- Need to bolt the aluminium angles onto the holes provided in the four corners of the sides to house the magnets
 - Place the mesh supports onto the given slots in the base sheet, and screw them together with the side sheets respectively
-- The steel rod is bent as per the [**drawing**](), to make the grill
+- The steel rod is bent as per the drawing, to make the grill
 - The mesh is then cut and held in place within the grill made 
 - The grill-mesh subassembly is placed onto the supports inside the box mentioned in Step 9.
 - Place ballast/UV-C Lamp drivers in between the lamps and clamp them onto the base
 - Screw the handles onto the given holes in the base and top sheets
-- Snap fit the rocker switch in the given [**hole**](). 
-- Screw the two switch guards so as to overlap (one top of the other) and then onto the outer side of the [**base sheet**]()
-- Connect all electronic parts as per the [**schematic**]()
+- Snap fit the rocker switch in the given hole. 
+- Screw the two switch guards so as to overlap (one top of the other) and then onto the outer side of the base sheets
+- Connect all electronic parts as per the schematic.
 
 
 
