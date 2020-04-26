@@ -1,4 +1,3 @@
-
 # Sterilo - Portable UV-C Steriliser
 
 ## Background & Need
@@ -41,7 +40,13 @@ Due to lack of enough personal protection equipment, they are beginning to be re
 
 UV-C, although being a standardised technology for killing bacteria and viruses is commonly not used in medical practise owing to the risk of exposure to human beings. By ensuring the safety of users through the design, and by also leveraging the UV-C technology, we allow the adoption of this technology in medical environments. The portable UV-C steriliser is open-source, low-cost and is DIY friendly, allowing makers to deploy locally in their communities using basic tools.
 
+![Biosafety_cabinet](https://2.bp.blogspot.com/-gtVUzFlReHU/V9Rk8uoOciI/AAAAAAAAHAY/FqsLFCnrls4IJ0v-55d51uvpgEhpM2_mwCLcB/s1600/UV%2Blight.png)
+
 This product is a valuable asset to sterilise most of the contact points for patients and health care workers in hospitals which includes oximeters, contact thermometers, N95 masks, touch points such as door handles, plugs, sockets, buttons of control units such as portable X-ray machines, echo machine controls for cardiac patients etc and even surgical equipments such as scissors, shears, tongs and so on.
+
+Oximeters           |  contact thermometers          | Button controls                  |  Door Handles
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![oximeters](https://a360-rtmagazine.s3.amazonaws.com/wp-content/uploads/2019/08/pulse-oximeter-1521-1280x640.jpg)  |  ![thermometers](https://5.imimg.com/data5/TA/UN/MY-8863371/mercury-thermometer-500x500.jpg) | ![Button_controls](https://qph.fs.quoracdn.net/main-qimg-ba1b42f49fccc94f3d1973ed4165fb5a) | ![Door Handles](https://www.specifile.co.za/wp-content/uploads/2018/01/Antimicrobial-copper-door-handle-from-Copper-Development-Association-1024x683.jpg)
 
 For usage, the object is placed on top of the mesh within the box enclosure for 30 minutes of exposure to render it effective for reuse. The design illuminates the whole surface, thereby preventing any shadowing effects to take place. Even for objects that dont directly fit into the enclosure of the UV-C steriliser, the design allows it to be placed onto the object helping in proper sterilisation of the surface.
 
