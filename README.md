@@ -87,7 +87,6 @@ Helps sterilise the following categories of objects:
 
 Interviews conducted with the following experts during the design process
 
-- Dr. Trupti Giladi, Infectious Diseases expert, an alum of Harvard University. Currently working at Prince Aly Khan Hospital (Mumbai)
 - Dr. Amar, Field Doctor, Corona Ward, Pune
 - Dr. Pravin Deokate, MS Ortho, Sassoon Hospital, Pune
 - Dr. Abhiraj Matre, MS Ortho, Sion Hospital, Mumbai
@@ -218,7 +217,6 @@ SARS-CoV-2, COVID-19 पैदा करने वाला वायरस, प
 
 डिजाइन प्रक्रिया के दौरान निम्नलिखित विशेषज्ञों के साथ साक्षात्कार आयोजित किए गए
 
-- डॉ। तृप्ती गिल्दी, संक्रामक रोग विशेषज्ञ, हार्वर्ड विश्वविद्यालय का एक विशेषज्ञ। वर्तमान में प्रिंस आली खान अस्पताल (मुंबई) में कार्यरत
 - डॉ। अमर, फील्ड डॉक्टर, कोरोना वार्ड, पुणे
 - डॉ। प्रवीण देओकाटे, एमएस ऑर्थो, ससून हॉस्पिटल, पुणे
 - डॉ। अभिराज मैत्रे, एमएस ऑर्थो, सायन अस्पताल, मुंबई
