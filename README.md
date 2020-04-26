@@ -12,7 +12,6 @@
    <img src="https://www.thehindu.com/news/cities/mumbai/u43q2m/article31158060.ece/ALTERNATES/LANDSCAPE_1200/15BMDISINFECTION" width="300" /> 
   <img src="https://images.tribuneindia.com/cms/gall_content/2019/2/2019_2$largeimg03_Sunday_2019_081237005.jpg" width="300" />
   <img src="https://www.pharmawareness.com/wp-content/uploads/2018/03/fogging.jpg" width="300" /> 
- 
 </p>
 
 ## Need
@@ -48,6 +47,8 @@ Due to lack of enough personal protection equipment, they are beginning to be re
 UV-C, although being a standardised technology for killing bacteria and viruses is commonly not used in medical practise owing to the risk of exposure to human beings. By ensuring the safety of users through the design, and by also leveraging the UV-C technology, we allow the adoption of this technology in medical environments. The portable UV-C steriliser is open-source, low-cost and is DIY friendly, allowing makers to deploy locally in their communities using basic tools.
 
 ![Biosafety_cabinet](https://2.bp.blogspot.com/-gtVUzFlReHU/V9Rk8uoOciI/AAAAAAAAHAY/FqsLFCnrls4IJ0v-55d51uvpgEhpM2_mwCLcB/s1600/UV%2Blight.png)
+
+### Ultraviolet-C technology has been in use in biosafety cabinets for several years now
 
 This product is a valuable asset to sterilise most of the contact points for patients and health care workers in hospitals which includes oximeters, contact thermometers, N95 masks, touch points such as door handles, plugs, sockets, buttons of control units such as portable X-ray machines, echo machine controls for cardiac patients etc and even surgical equipments such as scissors, shears, tongs and so on.
 
