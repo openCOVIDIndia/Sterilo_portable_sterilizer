@@ -6,11 +6,11 @@
 
 - For sterilisation procedures in ICUs and Isolation wards, fumigation and autoclave treatment are the most commonly used methods. However, with autoclaves, there are so many high exposure contact points that dont fit into the standard size of the enclosure. Beside there is also water droplet formation after usage which requires another round of drying treatment before reuse in the hospitals. As the total duration takes around 1 hour, during an increased surge of patients especially during this COVID-19 crisis, the autoclave would exceed its batch processing capability.
 
-![Autoclaves](https://images.tribuneindia.com/cms/gall_content/2019/2/2019_2$largeimg03_Sunday_2019_081237005.jpg)
+![Autoclaves](https://images.tribuneindia.com/cms/gall_content/2019/2/2019_2$largeimg03_Sunday_2019_081237005.jpg) | ![Fumigation](https://www.pharmawareness.com/wp-content/uploads/2018/03/fogging.jpg)
 
 - The fumigation process also requires extensive time (48 hours is the medically accepted standard). Currently in most of the Indian hospitals, the operations resume 30 minutes after the fumigation which renders the treatment partially effective thereby increasing the viral load in ICUs and hospital wards.
 
-![Fumigation](https://www.pharmawareness.com/wp-content/uploads/2018/03/fogging.jpg)
+
 
 ### Lack of enough autoclaves to sterilise instruments
 
