@@ -10,7 +10,10 @@
 
 - The fumigation process also requires extensive time (48 hours is the medically accepted standard). Currently in most of the Indian hospitals, the operations resume 30 minutes after the fumigation which renders the treatment partially effective thereby increasing the viral load in ICUs and hospital wards.
 
-
+<p float="left">
+  <img src="https://images.tribuneindia.com/cms/gall_content/2019/2/2019_2$largeimg03_Sunday_2019_081237005.jpg" width="100" />
+  <img src="https://www.pharmawareness.com/wp-content/uploads/2018/03/fogging.jpg" width="100" /> 
+</p>
 
 ### Lack of enough autoclaves to sterilise instruments
 
