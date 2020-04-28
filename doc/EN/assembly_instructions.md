@@ -19,7 +19,7 @@ to lockdown, here MDF was used
 
 ## Parts:
 
-3. Cut the [angle profiles] (https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/src/drawing/Aluminium_Magnet%20holder.PDF) and drill holes onto them. They act as the supports for the magnets. 
+3. Cut the [angle profiles(https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/src/drawing/Aluminium_Magnet%20holder.PDF) and drill holes onto them. They act as the supports for the magnets. 
 
 4. Mark the bending lines, slot and hole positions in the sheet metal according to drawing files. You should be getting six parts from this. 
 
