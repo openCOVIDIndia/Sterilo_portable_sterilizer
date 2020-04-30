@@ -110,43 +110,25 @@ The device is currently under development, a first metal prototype is being real
 | 18/04/2020  | Expected Date of Completion of the second iteration |
 
 ## How to replicate 
-
-For assembling the main body of the device
-- 5mm polycarbonate sheet should be cut with a laser cutter
-- After cutting the sheet metal as per the drawing, drill holes, and bend it according to the drawings.
-- Screw the sheet metal components onto the individual polycarbonate sheets.
-- Apply epoxy glue onto the interlocking slots, and then assemble the combined parts from Step 3. onto the base sheet so that they are aligned and fixed firmly.
-- Screw the M6 bolts into the 3D printed support for the electric connection, and then fix the UV-C Lamp onto the support.
-- Screw this UV-C Support structures two onto the base sheet and one onto the top sheet
-- Screw the limit switch in place of the side using 2.5 mm screws.
-- Need to bolt the aluminium angles onto the holes provided in the four corners of the sides to house the magnets
-- Place the mesh supports onto the given slots in the base sheet, and screw them together with the side sheets respectively
-- The steel rod is bent as per the drawing, to make the grill
-- The mesh is then cut and held in place within the grill made 
-- The grill-mesh subassembly is placed onto the supports inside the box mentioned in Step 9.
-- Place ballast/UV-C Lamp drivers in between the lamps and clamp them onto the base
-- Screw the handles onto the given holes in the base and top sheets
-- Snap fit the rocker switch in the given hole. 
-- Screw the two switch guards so as to overlap (one top of the other) and then onto the outer side of the base sheets
-- Connect all electronic parts as per the schematic.
+See [Assembly Instructions](doc/EN/assembly_instructions.md)
 
 
 # References
 References:
-[1] Weber, D. J., Barbee, S. L., Sobsey, M. D., & Rutala, W. A. (1999). The effect of blood on the antiviral activity of sodium hypochlorite, a phenolic, and a quaternary ammonium compound. Infection Control & Hospital Epidemiology, 20(12), 821-827.
-[2] Koo, D., Bouvier, B., Wesley, M., Courtright, P., & Reingold, A. (1989). Epidemic keratoconjunctivitis in a university medical center ophthalmology clinic; need for re-evaluation of the design and disinfection of instruments. Infection Control & Hospital Epidemiology, 10(12), 547-552
-[3, 4] Rutala, W. A., & Weber, D. J. (2008). Guideline for disinfection and sterilization in healthcare facilities, 2008.
-[5] Rheinbaben, F. V., Schünemann, S., Gross, T., & Wolff, M. H. (2000). Transmission of viruses via contact in ahousehold setting: experiments using bacteriophage φX174 as a model virus. Journal of Hospital Infection, 46(1), 61-66.
-[7] Klein, M. (1963). The inavtivation of viruses by germicides. Proc Annu Meet Chem Spec Manuf Assoc, 116-118.
-[8] Gorman, S. P., SCOTT, E. M., & Russell, A. D. (1980). Antimicrobial activity, uses and mechanism of action of glutaraldehyde. Journal of Applied Bacteriology, 48(2), 161-190.
-[9] Scott EM, Gorman SP. Glutaraldehyde. In: Block SS, ed. Disinfection, sterilization, and preservation. Philadelphia: Lippincott Williams & Wilkins, 2001:361-81.
-[10] Zaidi, M., Angulo, M., & Sifuentes-Osornio, J. (1995). Disinfection and sterilization practices in Mexico. Journal of hospital infection, 31(1), 25-32.
-[11] Schnuch, A., Uter, W., Geier, J., Frosch, P. J., & Rustemeyer, T. H. (1998). Contact allergies in healthcare workers. Results from the IVDK. Acta dermato-venereologica, 78(5).
-[12] Wiggins, P., McCurdy, S. A., & Zeidenberg, W. (1989). Epistaxis due to glutaraldehyde exposure. Journal of occupational medicine.: official publication of the Industrial Medical Association, 31(10), 854-856.
-[13] Russell AD. Ultraviolet radiation. In: Russell AD, Hugo WB, Ayliffe GAJ, eds. Principles and practices of disinfection, preservation and sterilization. Oxford: Blackwell Science, 1999:688-702.
-[14] Sensakovic, J. W., & Smith, L. G. (1982). Nosocomial ultraviolet keratoconjunctivitis. Infection Control & Hospital Epidemiology, 3(6), 475-477.
-[15] “Autonomous Robots Are Helping Kill Coronavirus in Hospitals” IEEE Spectrum: Technology, Engineering, and Science News, spectrum.ieee.org/automaton/robotics/medical-robots/autonomous-robots-are-helping-kill-coronavirus-in-hospitals
-[16] “Flight of the GermFalcon: How a Potential Coronavirus-Killing Airplane Sterilizer Was Born,” IEEE Spectrum: Technology, Engineering, and Science News. [Online]. Available: https://spectrum.ieee.org/tech-talk/aerospace/aviation/germfalcon-coronavirus-airplane-ultraviolet-sterilizer-news.
+- [1] Weber, D. J., Barbee, S. L., Sobsey, M. D., & Rutala, W. A. (1999). The effect of blood on the antiviral activity of sodium hypochlorite, a phenolic, and a quaternary ammonium compound. Infection Control & Hospital Epidemiology, 20(12), 821-827.
+- [2] Koo, D., Bouvier, B., Wesley, M., Courtright, P., & Reingold, A. (1989). Epidemic keratoconjunctivitis in a university medical center ophthalmology clinic; need for re-evaluation of the design and disinfection of instruments. Infection Control & Hospital Epidemiology, 10(12), 547-552
+- [3, 4] Rutala, W. A., & Weber, D. J. (2008). Guideline for disinfection and sterilization in healthcare facilities, 2008.
+- [5] Rheinbaben, F. V., Schünemann, S., Gross, T., & Wolff, M. H. (2000). Transmission of viruses via contact in ahousehold setting: experiments using bacteriophage φX174 as a model virus. Journal of Hospital Infection, 46(1), 61-66.
+- [7] Klein, M. (1963). The inavtivation of viruses by germicides. Proc Annu Meet Chem Spec Manuf Assoc, 116-118.
+- [8] Gorman, S. P., SCOTT, E. M., & Russell, A. D. (1980). Antimicrobial activity, uses and mechanism of action of glutaraldehyde. Journal of Applied Bacteriology, 48(2), 161-190.
+- [9] Scott EM, Gorman SP. Glutaraldehyde. In: Block SS, ed. Disinfection, sterilization, and preservation. Philadelphia: Lippincott Williams & Wilkins, 2001:361-81.
+- [10] Zaidi, M., Angulo, M., & Sifuentes-Osornio, J. (1995). Disinfection and sterilization practices in Mexico. Journal of hospital infection, 31(1), 25-32.
+- [11] Schnuch, A., Uter, W., Geier, J., Frosch, P. J., & Rustemeyer, T. H. (1998). Contact allergies in healthcare workers. Results from the IVDK. Acta dermato-venereologica, 78(5).
+- [12] Wiggins, P., McCurdy, S. A., & Zeidenberg, W. (1989). Epistaxis due to glutaraldehyde exposure. Journal of occupational medicine.: official publication of the Industrial Medical Association, 31(10), 854-856.
+- [13] Russell AD. Ultraviolet radiation. In: Russell AD, Hugo WB, Ayliffe GAJ, eds. Principles and practices of disinfection, preservation and sterilization. Oxford: Blackwell Science, 1999:688-702.
+- [14] Sensakovic, J. W., & Smith, L. G. (1982). Nosocomial ultraviolet keratoconjunctivitis. Infection Control & Hospital Epidemiology, 3(6), 475-477.
+- [15] “Autonomous Robots Are Helping Kill Coronavirus in Hospitals” IEEE Spectrum: Technology, Engineering, and Science News, spectrum.ieee.org/automaton/robotics/medical-robots/autonomous-robots-are-helping-kill-coronavirus-in-hospitals
+- [16] “Flight of the GermFalcon: How a Potential Coronavirus-Killing Airplane Sterilizer Was Born,” IEEE Spectrum: Technology, Engineering, and Science News. [Online]. Available: https://spectrum.ieee.org/tech-talk/aerospace/aviation/germfalcon-coronavirus-airplane-ultraviolet-sterilizer-news.
 
 
 
