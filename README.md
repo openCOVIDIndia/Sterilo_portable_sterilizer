@@ -1,12 +1,21 @@
 # Sterilo - Portable UV-C Steriliser
 ![](doc/EN/img/STERILO%20(2).png)
+
+Sterilo is an open-source, low-cost portable UV-C sterilizer for decontaminating common surface touchpoints in isolation wards and ICUs. It is designed to be DIY-friendly, allowing the possibility of decentralised manufacturing using locally  available materials.
+
 ## Background 
 
-- For ensuring that the procedures used to treat COVID-19 are risk free in terms of viral/bacterial contamination, hospitals normally follow disinfection/sterilisation methods. Disinfection methods involving NaClO and alcohol wipes which are still inefficient against bacterial spore formation and with most of the viruses. Besides, the hospital staff directly come in contact with these surfaces during treatment, leading to a higher risk of COVID-19 transmission.
+Amidst the raging coronavirus pandemic, sterilization of surfaces and common touch points is the key to prevent cross contamination between patients and healthcare workers and to enhance treatment, within isolation wards and Intensive care units (ICU).
 
-- For sterilisation procedures in ICUs and Isolation wards, fumigation and autoclave treatment are the most commonly used methods. However, with autoclaves, there are so many high exposure contact points that dont fit into the standard size of the enclosure. Beside there is also water droplet formation after usage which requires another round of drying treatment before reuse in the hospitals. As the total duration takes around 1 hour, during an increased surge of patients especially during this COVID-19 crisis, the autoclave would exceed its batch processing capability.
+Current surface disinfection methods involve spraying Sodium Hypochlorite solution (NaClO) [1] and alcohol wipes, and rinsing after a waiting time of 30 minutes, repeated 3 times a day. These methods are however not effective [2] against many microbes like bacterial spores [3] and in surfaces with high viral loads. Hence, sterilization is preferred over just disinfection. Even high level disinfectants like 2% glutaraldehyde [4] are ineffective unless exposed for 12 hours. Besides, when the healthcare workers directly come in contact (touch) with these infected surfaces while treating patients, they become carriers of infection, leading to a higher risk of COVID-19 transmission [5] within the isolation ward /ICU.
 
-- The fumigation process also requires extensive time (48 hours is the medically accepted standard). Currently in most of the Indian hospitals, the operations resume 30 minutes after the fumigation which renders the treatment partially effective thereby increasing the viral load in ICUs and hospital wards.
+On the other hand, autoclaves are the gold standard in sterilizing smaller instruments used in ICUs and Isolation wards. Each autoclave cycle takes 30 minutes while the drying process takes an hour to remove steam residue on the instruments.  However, a surge in coronavirus patients in a given hospital might lead to exceeding the capacity of autoclaves.  
+
+There are other disinfection methods such as Fumigation, which uses high level disinfectants like Formaldehyde [7] and Glutaraldehyde [8,9]. This method requires 10 hours of exposure time [10] and another 24 hours for the fumes to be ventilated, after fumigation is carried out in a room. However, currently in many of the Indian government hospitals, the operations resume 30 minutes, that too in poorly ventilated rooms after the fumigation which renders healthcare workers exposed to its harmful fumes. Harmful effects [11,12] include mucous membrane irritation, pulmonary symptoms, Epistaxis, allergic contact dermatitis, asthma.
+
+Ultraviolet radiation is an effective sterilization method, commonly found in Biosafety cabinets. The spectrum between 254nm to 265nm usually called UV-C has the maximum germicidal effect.[13] However, this method is currently not used in hospitals due to its harmful effects to human beings on exposure like skin cancer and eye damage [14].
+
+Existing UVC Sterilizer robots [15] and trolley models [16] that are being introduced in the market to sterilize isolation wards require the people in the ward to vacate the ward while it sterilizes, since it places patients at risk of exposure to UVC radiation. But vacating is not logistically feasible, especially in Indian government hospitals. Hence the main need is to effectively sterilize frequently touched surfaces without causing harmful effects to patients and healthcare workers.
 
 <p float="left">
    <img src="https://www.thehindu.com/news/cities/mumbai/u43q2m/article31158060.ece/ALTERNATES/LANDSCAPE_1200/15BMDISINFECTION" width="300" /> 
@@ -15,48 +24,37 @@
 </p>
 
 ## Need
-### Lack of sterilization equipment for common touch points
+### Surfaces:
+Effective sterilization methods for fixed touch points (surfaces) within isolation wards and ICUs.
 
-
-### Lack of enough autoclaves to sterilise instruments
-
-SARS-CoV-2,the virus causing COVID-19, survives in the environment, including on surfaces of various materials such as iron, cardboard and tissue. This explains that there is a risk that the outer surface of respirators and surgical masks used inpatient care can quickly become contaminated.
+### Complement autoclaves
+Supplementary sterilization for instruments, in addition to autoclaves, to reduce their overuse.
 
 ### Need for reuse of Personal protective equipment
-
-Due to lack of enough personal protection equipment, they are beginning to be reused without any sterilization. Medical staff in teams 1 and 2 are still not provided with PPEs and have only N95 masks, like any other sanitary workers. They don’t have high viral loads like the teams 3 (who treat less severe patients) and 4 (who treat ICU patients) There is an imminent shortage of Personal Protective Equipments (PPE) even for teams 3 and 4 which includes masks, aprons, gowns and eye protection gear for the health workers in hospitals across India. Owing to this, they are facing a higher risk of virus infection, accidentally exposing other patients, their own families, and their colleagues at a time when hospitals cannot afford to have critical personnel on the sidelines. Contamination of the surface of respirators and surgical masks entails a risk for infection when reusing a mask or respirator without proper sterilization
-
-### Medical guidelines
-
-- Confirmed patients are arranged in the same room with bed spacing of not less than 1.2 meters (appx 4 feet).
-- Disinfection of object surfaces: Surfaces wiped with 1000 mg/L chlorine-containing disinfectant or wipes with effective chlorine; wait for 30 minutes and then rinse with clean water. Repeated 3 times a day. First cleaner (less touched) regions are disinfected, followed by contaminated areas. Each time a surface is wiped, the used wipe is replaced with a new one
-
-
-### Effectiveness of UV-C on N95 masks
-
-- Use is shown to be effective against SARS (SARS-COV) https://www.sciencedirect.com/science/article/pii/S016609340400179X
-
-- Demonstrated that the Pulsed-UVC device, associated with SOP, significantly reduced microorganisms from common high-touch surfaces: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6801766/
-
-- Far UVC: https://www.nature.com/articles/s41598-018-21058-w?fbclid=IwAR3eNTMbA8snIMpCCsYn3LM5TdCtlOPsdIuwRpmmFMI8T_q61MZSMVfT0Q0
-
-- https://www.lesswrong.com/posts/L8KGSDchPpNo48PCM/ubiquitous-far-ultraviolet-light-could-control-the-spread-of
+Reuse of N-95 respirators for non-medical staff so that it is available to medical staff working in high viral loads like in isolation wards and ICUs.
 
 # Solution
 
-UV-C, although being a standardised technology for killing bacteria and viruses is commonly not used in medical practise owing to the risk of exposure to human beings. By ensuring the safety of users through the design, and by also leveraging the UV-C technology, we allow the adoption of this technology in medical environments. The portable UV-C steriliser is open-source, low-cost and is DIY friendly, allowing makers to deploy locally in their communities using basic tools.
+Sterilo, a portable surface sterilizer that uses UV-C radiation to sterilize common touch points within ICUs and isolation wards, even while the patient is present in its proximity and no special shielding is required. Safety features have been incorporated to avoid accidental exposure to UVC radiation, such that only when it's clamped onto the surface, the UV lamps turn ON.
 
-![Biosafety_cabinet](https://2.bp.blogspot.com/-gtVUzFlReHU/V9Rk8uoOciI/AAAAAAAAHAY/FqsLFCnrls4IJ0v-55d51uvpgEhpM2_mwCLcB/s1600/UV%2Blight.png)
+Sterilo can be used in two configurations:
+## A) Clamped onto surfaces
+It features suction cups that clamp onto any surface. (See picture below). Once turned ON, the sterilization process runs for 20 minutes and turns off automatically with a beep, so that the user can unclamp it and place it on the next surface.
 
-### Ultraviolet-C technology has been in use in biosafety cabinets for several years now
+![](doc/EN/img/ventilator%204.jpg)
 
-This product is a valuable asset to sterilise most of the contact points for patients and health care workers in hospitals which includes oximeters, contact thermometers, N95 masks, touch points such as door handles, plugs, sockets, buttons of control units such as portable X-ray machines, echo machine controls for cardiac patients etc and even surgical equipments such as scissors, shears, tongs and so on.
+![](doc/EN/img/STERILO%20(3)%20(1).png)
 
-Oximeters           |  contact thermometers          | Button controls                  |  Door Handles
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![oximeters](https://a360-rtmagazine.s3.amazonaws.com/wp-content/uploads/2019/08/pulse-oximeter-1521-1280x640.jpg)  |  ![thermometers](https://5.imimg.com/data5/TA/UN/MY-8863371/mercury-thermometer-500x500.jpg) | ![Button_controls](https://qph.fs.quoracdn.net/main-qimg-ba1b42f49fccc94f3d1973ed4165fb5a) | ![Door Handles](https://www.specifile.co.za/wp-content/uploads/2018/01/Antimicrobial-copper-door-handle-from-Copper-Development-Association-1024x683.jpg)
+## B) Box type
+where a lid with an additional UV-C lamp is placed over configuration A. It is designed to hold most small instruments (for compatibility list see below). A removable mesh holds the instruments in place, while two UV-C lamps below ensures all surfaces of an object are completely exposed.
 
-For usage, the object is placed on top of the mesh within the box enclosure for 30 minutes of exposure to render it effective for reuse. The design illuminates the whole surface, thereby preventing any shadowing effects to take place. Even for objects that dont directly fit into the enclosure of the UV-C steriliser, the design allows it to be placed onto the object helping in proper sterilisation of the surface.
+![](doc/EN/img/UV%20with%20things.jpg)
+
+![](doc/EN/img/IMG_6893.jpg)
+
+It is designed to sterilise most of the common touch points within isolation wards and ICUs in hospitals which includes buttons of vital monitors, ventilators, breathing units, pulse oximeters, contact thermometers, N95 masks, other touchpoints such as door handles, plugs, sockets, buttons of control units such as portable X-ray machines, echo machine controls for cardiac patients etc and even surgical equipments such as scissors, shears and tongs. The product is aimed at hospitals, makeshift wards and testing labs.
+
+![](doc/EN/img/123.png)
 
 Helps sterilise the following categories of objects:
 
