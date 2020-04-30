@@ -1,5 +1,5 @@
 # Sterilo - Portable UV-C Steriliser
-
+![](doc/EN/img/STERILO%20(2).png)
 ## Background 
 
 - For ensuring that the procedures used to treat COVID-19 are risk free in terms of viral/bacterial contamination, hospitals normally follow disinfection/sterilisation methods. Disinfection methods involving NaClO and alcohol wipes which are still inefficient against bacterial spore formation and with most of the viruses. Besides, the hospital staff directly come in contact with these surfaces during treatment, leading to a higher risk of COVID-19 transmission.
