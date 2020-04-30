@@ -24,13 +24,13 @@ Existing UVC Sterilizer robots [15] and trolley models [16] that are being intro
 </p>
 
 ## Need
-### Surfaces:
+- ### Surfaces:
 Effective sterilization methods for fixed touch points (surfaces) within isolation wards and ICUs.
 
-### Complement autoclaves
+- ### Complement autoclaves
 Supplementary sterilization for instruments, in addition to autoclaves, to reduce their overuse.
 
-### Need for reuse of Personal protective equipment
+- ### Need for reuse of Personal protective equipment
 Reuse of N-95 respirators for non-medical staff so that it is available to medical staff working in high viral loads like in isolation wards and ICUs.
 
 # Solution
