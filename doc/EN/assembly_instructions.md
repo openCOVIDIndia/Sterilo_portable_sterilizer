@@ -10,11 +10,11 @@
 7. Try square
 
 ## Preparatory:
-1. Laser cut the [files](src/lasercut_files) using either MDF or Polycarbonate. Polycarbonate (PC) is much stronger than MDF, but due to unavailability due to lockdown, here MDF was used. You can find the illustrator files 
+1. Laser cut the [files](https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/tree/master/src/lasercut_files) using either MDF or Polycarbonate. Polycarbonate (PC) is much stronger than MDF, but due to unavailability due to lockdown, here MDF was used. You can find the illustrator files 
 
-2. Cut the [sheet metal](master/src/drawing)'s outer boundaries using either a metal laser cutter or a sheet metal cutter/ hand lever).
+2. Cut the [sheet metal](https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/tree/master/src/drawing)'s outer boundaries using either a metal laser cutter or a sheet metal cutter/ hand lever).
 
-3. Keep all components in the [Bill of materials](src/BOM/Sterilo_%20BOM.xlsx) handy. 
+3. Keep all components in the [Bill of materials](https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/src/BOM/Sterilo_%20BOM.xlsx) handy. 
 
 ## Parts:
 
@@ -22,6 +22,6 @@
 
 4. Mark the bending lines, slot and hole positions in the sheet metal according to drawing files. You should be getting six parts from this. 
 
-5. Bend 4 mm welding rods according to the diagram for making the grill frame. If you do not have enough length, weld pieces together.
+5. Bend 4 mm aluminium/ stainless steel rod. If you dont have access to these, you can also use welding rods according to the diagram for making the [grill frame](https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/src/PARTS/STEP%20Files/Grill%20Frame.STEP). If you do not have enough length, weld pieces together.
 
-6. 
+## Assembly
