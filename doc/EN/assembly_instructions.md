@@ -25,14 +25,43 @@
 5. Bend 4 mm aluminium/ stainless steel rod. If you dont have access to these, you can also use welding rods according to the diagram for making the [grill frame](https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/src/PARTS/STEP%20Files/Grill%20Frame.STEP). If you do not have enough length, weld pieces together.
 
 ## Assembly
-1. Put together the following sub-assemblies (MDF/PC with sheet metal facing inside)
+Put together the following sub-assemblies (MDF/PC with sheet metal facing inside)
 - base
 - longer side walls x 2
 - shorter side wall (plain) x 1
 - shorter side wall (with switch and controls) x 1
 
+### Base subassembly
 <p float="left">
    <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/1.JPG" width="300" /> 
   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/2.JPG" width="300" />
   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/3.JPG" width="300" /> 
+</p>
+
+### shorter side wall (with switch and controls)
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/5.JPG" width="300" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/6.JPG" width="300" />
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/7.JPG" width="300" /> 
+</p>
+
+### Fix electronics housing and rocker switch on the above mentioned side wall
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/8.JPG" width="300" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/9.JPG" width="300" />
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/10.JPG" width="300" /> 
+</p>
+
+### Fix the switch guard on the above mentioned side wall
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/11.JPG" width="300" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/12.JPG" width="300" />
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/13_2.JPG" width="300" /> 
+</p>
+
+### shorter side wall (plain)
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/14.JPG" width="300" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/15.JPG" width="300" />
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/16.JPG" width="300" /> 
 </p>
