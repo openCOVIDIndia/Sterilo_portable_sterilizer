@@ -25,3 +25,14 @@
 5. Bend 4 mm aluminium/ stainless steel rod. If you dont have access to these, you can also use welding rods according to the diagram for making the [grill frame](https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/src/PARTS/STEP%20Files/Grill%20Frame.STEP). If you do not have enough length, weld pieces together.
 
 ## Assembly
+1. Put together the following sub-assemblies (MDF/PC with sheet metal facing inside)
+- base
+- longer side walls x 2
+- shorter side wall (plain) x 1
+- shorter side wall (with switch and controls) x 1
+
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/1.JPG" width="300" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/2.JPG" width="300" />
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/3.JPG" width="300" /> 
+</p>
