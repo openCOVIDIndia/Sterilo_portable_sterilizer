@@ -1,6 +1,6 @@
 # Assembly Instructions
 
-##Tools Required:
+## Tools Required:
 1. Laser cutter
 2. Sheet metal cutter (hand-lever / cutting machine)
 3. Mitre saw/ Angle grinder
@@ -38,7 +38,7 @@ Put together the following sub-assemblies (MDF/PC with sheet metal facing inside
   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/3.JPG" width="300" /> 
 </p>
 
-### shorter side wall (with switch and controls)
+### Make one of the shorter side walls (with switch and controls) subassembly
 <p float="left">
    <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/5.JPG" width="300" /> 
   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/6.JPG" width="300" />
@@ -59,9 +59,78 @@ Put together the following sub-assemblies (MDF/PC with sheet metal facing inside
   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/13_2.JPG" width="300" /> 
 </p>
 
-### shorter side wall (plain)
+### Make the other shorter side wall (plain) subassembly
 <p float="left">
    <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/14.JPG" width="300" /> 
   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/15.JPG" width="300" />
   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/16.JPG" width="300" /> 
+</p>
+
+### Make the longer wall subassembly
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/18.JPG" width="300" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/19.JPG" width="300" />
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/20.JPG" width="300" /> 
+</p>
+
+### Insert grill supports 
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/21.JPG" width="300" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/22.JPG" width="300" />
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/23.JPG" width="300" /> 
+</p>
+
+### Fasten grill supports in place
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/24.JPG" width="300" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/25.JPG" width="300" />
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/26.JPG" width="300" /> 
+</p>
+
+### Assemble together the base and longer side subassemblies along the provides slots and tabs
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/27.JPG" width="300" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/28.JPG" width="300" />
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/29.JPG" width="300" /> 
+</p>
+
+### Assemble together the base and shorter sides along the provides slots and tabs
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/30.JPG" width="600" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/31.JPG" width="600" />
+</p>
+
+
+
+
+### Place grill and mesh within the casing, onto the grill supports
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/33.JPG" width="300" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/34.JPG" width="300" />
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/34_2.JPG" width="300" /> 
+</p>
+
+### Put together cover plate and stopper blocks together (sub assembly)
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/35.JPG" width="600" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/36.JPG" width="600" />
+</p>
+
+### Fasten the metal handle in place in the cover plate
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/37.JPG" width="600" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/38.JPG" width="600" />
+</p>
+
+### Fasten the UV lamp subassembly onto the cover plate
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/39.JPG" width="300" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/41.JPG" width="300" />
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/42.JPG" width="300" />
+  
+### Place the lid over the previously assembled base 
+<p float="left">
+   <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/43.JPG" width="300" /> 
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/44.JPG" width="300" />
+  <img src="https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/blob/master/doc/EN/img/instructions/45.JPG" width="300" />
 </p>
