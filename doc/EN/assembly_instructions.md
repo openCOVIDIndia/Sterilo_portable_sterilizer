@@ -10,8 +10,8 @@
 7. Try square
 
 ## Preparatory:
-1. Laser cut the files using either MDF or Polycarbonate. Polycarbonate (PC) is much stronger than MDF, but due to unavailability due
-to lockdown, here MDF was used
+1. Laser cut the ![files](src/lasercut_files) using either MDF or Polycarbonate. Polycarbonate (PC) is much stronger than MDF, but due to unavailability due
+to lockdown, here MDF was used. You can find the illustrator files 
 
 2. Cut the sheet metal's outer boundaries using either a metal laser cutter or a sheet metal cutter/ hand lever).
 
