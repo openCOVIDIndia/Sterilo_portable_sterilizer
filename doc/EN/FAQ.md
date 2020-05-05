@@ -1,3 +1,5 @@
+# Frequently Asked Questions (FAQs)
+
 <details open>
 <summary>What about the fact that hospitals already deep clean walls with tried and tested methods?</summary>
 <br>
