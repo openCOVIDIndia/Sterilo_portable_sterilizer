@@ -144,3 +144,5 @@ References:
 - Write down steps to replicate if necessesary as well as guides in sequence.
 If this part becomes difficult ask for help here in the [`#how-to-document-designs` channel ]()
  -->
+
+Modifed as per issue #1
