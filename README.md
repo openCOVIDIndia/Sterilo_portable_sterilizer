@@ -3,6 +3,7 @@
 
 Sterilo is an open-source, low-cost portable UV-C sterilizer for decontaminating common surface touchpoints in isolation wards and ICUs. It is designed to be DIY-friendly, allowing the possibility of decentralised manufacturing using locally  available materials.
 
+
 ## Background 
 
 Amidst the raging coronavirus pandemic, sterilization of surfaces and common touch points is the key to prevent cross contamination between patients and healthcare workers and to enhance treatment, within isolation wards and Intensive care units (ICU).
@@ -112,6 +113,7 @@ The device is currently under development, a first metal prototype is being real
 ## How to replicate 
 See [Assembly Instructions](doc/EN/assembly_instructions.md)
 
+## [For more information, read our wiki](https://github.com/openCOVIDIndia/Sterilo_portable_sterilizer/wiki)
 
 # References
 References:
