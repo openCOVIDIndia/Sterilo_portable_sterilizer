@@ -1,4 +1,10 @@
 # Sterilo - Portable UV-C Steriliser
+## Version 2 is here
+
+![](doc/EN/img/V2%20sterilo.png)
+
+## What's new
+
 ![](doc/EN/img/STERILO%20(2).png)
 
 Sterilo is an open-source, low-cost portable UV-C sterilizer for decontaminating common surface touchpoints in isolation wards and ICUs. It is designed to be DIY-friendly, allowing the possibility of decentralised manufacturing using locally  available materials.
