@@ -1,7 +1,7 @@
 # Sterilo - Portable UV-C Steriliser
 ## Version 2 is here
 
-![](doc/EN/img/V2%20sterilo.png)
+![](doc/EN/img/V2%20sterilo.PNG)
 
 ## What's new
 
